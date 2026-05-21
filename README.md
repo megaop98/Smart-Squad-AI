@@ -1,6 +1,6 @@
 # Smart Squad AI: FIFA Tactical AI (Virtual Coach) ⚽🤖
 
-[![Award - IEEE Winner](https://img.shields.io/badge/IEEE%20Project%20Exhibition-Winner%20%F0%9F%8C%9F-cyan?style=for-the-badge)](https://linkedin.com)
+[![Award - IEEE Winner](https://img.shields.io/badge/IEEE%20Project%20Exhibition-Winner%20%F0%9F%8C%9F-cyan?style=for-the-badge)](https://www.linkedin.com/in/saim-awan-530730269/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Framework](https://img.shields.io/badge/Machine%20Learning-Ensemble-ff007f?style=for-the-badge)](https://scikit-learn.org)
 
