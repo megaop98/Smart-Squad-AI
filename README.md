@@ -7,6 +7,8 @@
 **Smart Squad AI** is a comprehensive, end-to-end data science pipeline and machine learning application designed for grassroots and semi-professional football coaching staff. The system eliminates subjective observer bias by mapping a 7-dimensional technical/physical player attribute space to optimal tactical roles on the pitch using a heterogeneous soft-voting ensemble.
 
 > 🏆 **Award-Winning Project:** Awarded **1st Place / Shield Winners** at the Bahria University Project Exhibition by an evaluation panel of IEEE Seniors.
+<img width="900" height="1200" alt="WhatsApp Image 2026-05-21 at 10 33 13 PM" src="https://github.com/user-attachments/assets/4461e0cb-08c2-42f0-ae60-2974a3e800a0" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-21 at 10 33 09 PM" src="https://github.com/user-attachments/assets/849172ed-ce7c-44bb-b317-db1f860093e0" />
 
 ---
 
